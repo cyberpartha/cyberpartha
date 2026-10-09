@@ -25,7 +25,7 @@
 ```bash
 ┌──(CyberPartha㉿Kali)-[~]
 └─$ whoami
-Partha Jana | Learning • Practicing • Securing
+CyberPartha | Learning • Practicing • Securing
 ```
 
 ## 👨‍💻 About Me
