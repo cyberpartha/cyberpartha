@@ -22,10 +22,19 @@
 
 ### 🔐 Cybersecurity Enthusiast | Ethical Hacking Learner | Bug Bounty Aspirant
 
+## 💻 CyberPartha Terminal
+
 ```bash
-┌──(CyberPartha㉿Kali)-[~]
+┌──(cyberpartha㉿kali)-[~]
 └─$ whoami
-CyberPartha | Learning • Practicing • Securing
+CyberPartha | Cybersecurity Enthusiast
+
+┌──(cyberpartha㉿kali)-[~]
+└─$ cat mission.txt
+🔐 Exploring Ethical Hacking
+🐛 Learning Bug Bounty Hunting
+🛡️ Practicing Web Application Security
+🚀 Learn. Explore. Secure.
 ```
 
 ## 👨‍💻 About Me
