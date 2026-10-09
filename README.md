@@ -1,4 +1,24 @@
-# 👋 Hi, I'm CyberPartha!
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=180&section=header&text=CyberPartha&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=ETHICAL%20HACKING%20%7C%20CYBERSECURITY&descSize=16&descAlignY=57" width="100%" alt="CyberPartha Header" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Exploring+the+Art+of+Ethical+Hacking;Breaking+Barriers.+Building+Security.;Learning+Web+Application+Security;Future+Bug+Bounty+Hunter" alt="CyberPartha Animated Introduction" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ETHICAL_HACKING-0F172A?style=for-the-badge&logo=kalilinux&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/WEB_SECURITY-312E81?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-0891B2?style=for-the-badge&logo=linux&logoColor=white" />
+
+<br/><br/>
+
+<b>LEARN • EXPLORE • SECURE</b>
+
+</div>
+
+---
 
 ### 🔐 Cybersecurity Enthusiast | Ethical Hacking Learner | Bug Bounty Aspirant
 
