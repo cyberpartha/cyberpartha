@@ -45,10 +45,47 @@ CyberPartha | Cybersecurity Enthusiast
 - 🚀 Building hands-on security skills through practical labs
 
 ## 🛠️ Skills & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🛡️ Technical Arsenal
+
+<div align="center">
+
+### 🐧 Operating Systems
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=22D3EE)
+![Linux](https://img.shields.io/badge/Linux-312E81?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0F172A?style=for-the-badge&logo=windows&logoColor=22D3EE)
+![WSL2](https://img.shields.io/badge/WSL2-312E81?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### 🔍 Security Tools
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0F172A?style=for-the-badge&logo=burpsuite&logoColor=22D3EE)
+![Nmap](https://img.shields.io/badge/Nmap-312E81?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=22D3EE)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-312E81?style=for-the-badge&logo=owasp&logoColor=white)
+
+### 💻 Programming & Development
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=22D3EE)
+![Bash](https://img.shields.io/badge/Bash-312E81?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=22D3EE)
+![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌐 Web Application Security
+
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-0F172A?style=for-the-badge&logoColor=22D3EE)
+![XSS](https://img.shields.io/badge/XSS-312E81?style=for-the-badge&logoColor=white)
+![CSRF](https://img.shields.io/badge/CSRF-0F172A?style=for-the-badge&logoColor=22D3EE)
+![IDOR](https://img.shields.io/badge/IDOR-312E81?style=for-the-badge&logoColor=white)
+![LFI%20%2F%20RFI](https://img.shields.io/badge/LFI%20%2F%20RFI-0F172A?style=for-the-badge&logoColor=22D3EE)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-312E81?style=for-the-badge&logo=owasp&logoColor=white)
+
+<br/>
+
+**LEARNING • PRACTICING • EVOLVING**
+
+</div>
+
+---
 
 ## 📚 Currently Learning
 - Web Application Penetration Testing
