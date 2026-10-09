@@ -43,8 +43,6 @@ CyberPartha | Cybersecurity Enthusiast
 - 🔍 Exploring Web Application Security and OWASP Top 10
 - 🐛 Aspiring Bug Bounty Hunter
 - 🚀 Building hands-on security skills through practical labs
-
-## 🛠️ Skills & Tools
 ## 🛡️ Technical Arsenal
 
 <div align="center">
