@@ -91,8 +91,25 @@ CyberPartha | Cybersecurity Enthusiast
 - Burp Suite and Security Testing Methodology
 - Python for Cybersecurity
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberpartha&show_icons=true&theme=tokyonight)
+## 📊 CyberPartha | GitHub Activity Dashboard
+
+<div align="center">
+
+### ⚡ GitHub Performance
+
+<img src="https://github-readme-stats.vercel.app/api?username=cyberpartha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&include_all_commits=true" alt="CyberPartha GitHub Statistics" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpartha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="CyberPartha Top Languages" height="170" />
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=cyberpartha&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="CyberPartha GitHub Contribution Streak" />
+
+<br/>
+
+**BUILD • LEARN • COMMIT • REPEAT**
+
+</div>
 
 ---
 ⭐ Learning every day, one vulnerability at a time.
